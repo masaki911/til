@@ -12,3 +12,4 @@ class FizzBuzzTest < Minitest::Test
     assert_equal 'FizzBuzz',fizz_buzz(15)
   end
 end
+ 
